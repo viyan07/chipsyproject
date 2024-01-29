@@ -505,7 +505,7 @@ footer {
   }
   li {
     margin: 5px;
-    font-size: 13px;
+    font-size: 5px;
   }
   .nav_div_link {
     display: none;
@@ -521,7 +521,8 @@ footer {
      padding: 15%;
   }
   .purchase_bt {
-    font-size: 15px;
+    
+    font-size: 10px;
     height:auto;
     padding-bottom: 0px;
     text-align: center;
