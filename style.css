@@ -420,6 +420,11 @@ footer {
     margin: 25px;
     flex-direction: column-reverse;
   }
+}
+  @media (max-width:450px){
+    
+  }
+   
   .product_div2 {
     text-align: center;
     margin: 25px;
@@ -458,9 +463,10 @@ footer {
     margin-top: 90px;
   }
   .purchase_bt {
-    font-size: 13px;
-    height: 13px;
-    padding-bottom: 17px;
+    font-size: 70%;
+    height:60%;
+    width: auto;
+     padding:8px;
     text-align: center;
   }
   .first-image {
@@ -475,7 +481,7 @@ footer {
     width: 170px;
     height: auto;
   }
-}
+
 @media (max-width: 450px) {
   .product_div {
     text-align: center;
