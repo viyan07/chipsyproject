@@ -505,7 +505,7 @@ footer {
   }
   li {
     margin: 5px;
-    font-size: 5px;
+    font-size: 10px;
   }
   .nav_div_link {
     display: none;
@@ -523,8 +523,9 @@ footer {
   .purchase_bt {
     
     font-size: 10px;
-    height:auto;
-    padding-bottom: 0px;
+    height:15%;
+    padding:2px;
+    width: auto;
     text-align: center;
   }
   .first-image {
